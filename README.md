@@ -1,6 +1,6 @@
 # Using AirBnB-Seattle-Data set to predict the listing price
 
-In this project, I am going to perform a standard data analysis procedure to extract useful information and subsequently I will try to answer related questions. Finally, I will build a linear regression model to predict the lighting prices.  
+In this project, I am going to perform a standard data analysis procedure to extract useful information and subsequently I will try to answer related questions. Finally, I will build a linear regression model to predict the listing prices.  
 
 ## Medium URL link for this project:  
 
